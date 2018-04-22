@@ -17,6 +17,10 @@ import Buefy from 'buefy';
 
 Vue.use(Buefy);
 
+// Vue-router
+import VueRouter from 'vue-router';
+Vue.use(VueRouter);
+
 
 /**
  * Next, we will create a fresh Vue application instance and attach it to
